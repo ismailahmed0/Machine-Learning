@@ -1,1 +1,1 @@
-
+Developed a Neural Network Model using Python and Scikit to predict forest fires from an Algerian dataset. Manipulated hyper-parameters like activation functions, learning rates, epochs, number of layers and number of nodes per layer to improve accuracy and reduce error.
